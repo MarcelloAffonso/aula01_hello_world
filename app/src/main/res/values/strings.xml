@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aula01_hello_world</string>
+    <string name="welcome">Welcome to Android app development!</string>
+    <string name="deitel_logo">oi guerreiro, esse é o inseto do deitel</string>
+</resources>
